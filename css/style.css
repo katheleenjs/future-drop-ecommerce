@@ -89,7 +89,7 @@ main {
 .hero {
     height: 600px;
     margin: 0 80px;
-    background-image: url('/assets/img1.png');
+    background-image: url('../assets/hero-bg.png');
     background-size: cover;
     background-position: center;
     border-radius: 24px;
